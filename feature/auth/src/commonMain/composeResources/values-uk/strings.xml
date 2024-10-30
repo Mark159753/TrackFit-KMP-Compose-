@@ -1,0 +1,14 @@
+<resources>
+    <string name="let_get_started">Давайте почнемо</string>
+    <string name="let_dive_into_account">Давайте погрузимся у ваш аккаунт</string>
+    <string name="login_with_google_btn">Продовжити з Google</string>
+    <string name="sign_up_btn">Реєстрація</string>
+    <string name="sign_in_btn">Вхід</string>
+
+    <!--SignUp-->
+    <string name="sign_up_title">Приєднуйся до TrackFit Сьогодні</string>
+    <string name="sign_up_subtitle">Створюй свій аккаунт і починай відстежувати свої кроки</string>
+    <string name="sign_up_email">Пошта</string>
+    <string name="sign_up_password">Пароль</string>
+    <string name="sign_up_or">або</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="report_title">Report</string>
+    <string name="report_total_steps_title">Total steps all the time</string>
+
+    <string name="report_statistic_title">Statistics</string>
+    <string name="report_statistic_this_week">This Week</string>
+    <string name="report_statistic_this_year">This Year</string>
+    <string name="report_statistic_steps">Steps</string>
+    <string name="report_statistic_time">Time</string>
+    <string name="report_statistic_calories">Calories</string>
+    <string name="report_statistic_distance">Distance</string>
+
+    <string name="report_statistic_your_progress">Your Progress</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="home_title">Головна</string>
+    <string name="home_steps">Кроки</string>
+    <string name="home_your_progress_title">Ваш прогрес</string>
+</resources>

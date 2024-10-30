@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="steps">Кроків</string>
+    <string name="time">Час</string>
+    <string name="kcal">Kcal</string>
+    <string name="h">г</string>
+    <string name="m">х</string>
+    <string name="stop_btn">Стоп</string>
+</resources>

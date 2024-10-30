@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="steps">Steps</string>
+    <string name="time">Time</string>
+    <string name="kcal">Kcal</string>
+    <string name="h">h</string>
+    <string name="m">m</string>
+    <string name="stop_btn">Stop</string>
+</resources>

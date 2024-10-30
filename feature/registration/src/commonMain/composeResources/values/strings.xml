@@ -1,0 +1,30 @@
+<resources>
+    <string name="registration_skip_btn">Skip</string>
+    <string name="registration_continue_btn">Continue</string>
+    <string name="registration_finish_btn">Finish</string>
+
+    <string name="registration_select_your">Select Your</string>
+    <string name="registration_gender">Gender</string>
+    <string name="registration_how">How</string>
+    <string name="registration_old">Old</string>
+    <string name="registration_are_you">Are You?</string>
+    <string name="registration_what_your">What's Your</string>
+    <string name="registration_height">Height</string>
+    <string name="registration_what_your_weight">What's Your</string>
+    <string name="registration_weight">Weight</string>
+    <string name="registration_set_your">Set Your</string>
+    <string name="registration_step_goal">Step Goal</string>
+    <string name="registration_gender_subtitle">Let's start by understanding you.</string>
+    <string name="registration_share_age">Share your age with us.</string>
+    <string name="registration_how_tall">How tall are you?</string>
+    <string name="registration_share_your_weight">Share your weight with us.</string>
+    <string name="registration_choose_your_goal">Choose your daily step goal to stay motivated!</string>
+
+    <string name="registration_gender_man">Man</string>
+    <string name="registration_gender_woman">Woman</string>
+
+    <string name="registration_years_unit">years</string>
+    <string name="registration_cm_unit">cm</string>
+    <string name="registration_kg_unit">kg</string>
+    <string name="registration_steps_unit">steps</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="tracks_title">Tracks</string>
+    <string name="tracks_start_btn">START</string>
+    <string name="tracks_stop_btn">Stop</string>
+    <string name="tracks_location_permission_required">Location permission required</string>
+</resources>

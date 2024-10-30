@@ -1,0 +1,30 @@
+<resources>
+    <string name="registration_skip_btn">Пропустити</string>
+    <string name="registration_continue_btn">Продовжити</string>
+    <string name="registration_finish_btn">Завершити</string>
+
+    <string name="registration_select_your">Виберіть Вашу</string>
+    <string name="registration_gender">Стать</string>
+    <string name="registration_how">Скільки</string>
+    <string name="registration_old">Років</string>
+    <string name="registration_are_you">Вам?</string>
+    <string name="registration_what_your">Який Ваш</string>
+    <string name="registration_height">Зріст</string>
+    <string name="registration_what_your_weight">Яка Ваша</string>
+    <string name="registration_weight">Вага</string>
+    <string name="registration_set_your">Встановіть Вашу</string>
+    <string name="registration_step_goal">Ціль</string>
+    <string name="registration_gender_subtitle">Давайте для початку зрозуміємо вас.</string>
+    <string name="registration_share_age">Поділіться з нами своїм віком.</string>
+    <string name="registration_how_tall">Який у вас зріст</string>
+    <string name="registration_share_your_weight">Поділіться з нами своєю вагою.</string>
+    <string name="registration_choose_your_goal">Виберіть щоденну ціль кроків, щоб залишатися мотивованими!</string>
+
+    <string name="registration_gender_man">Чоловік</string>
+    <string name="registration_gender_woman">Жінка</string>
+
+    <string name="registration_years_unit">років</string>
+    <string name="registration_cm_unit">см</string>
+    <string name="registration_kg_unit">кг</string>
+    <string name="registration_steps_unit">кроків</string>
+</resources>

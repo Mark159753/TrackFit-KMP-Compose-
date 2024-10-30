@@ -1,0 +1,67 @@
+<resources>
+    <string name="valid_field_empty_error">Filed is empty</string>
+    <string name="valid_field_wrong_email_error">Email is incorrect</string>
+    <string name="valid_field_short_password_error">Password must contains at least 6 symbols</string>
+    <string name="valid_field_long_password_error">Password cannot be longer than 12 characters</string>
+
+    <string name="unknown_error">Unknown error</string>
+    <string name="auth_invalid_password_error">Invalid password</string>
+    <string name="auth_invalid_email_error">Invalid email</string>
+    <string name="auth_weak_password_error">Weak password</string>
+    <string name="auth_exist_user_error">User with this email already exist try to Sign In</string>
+
+    <!--Bottom Navigation Titles-->
+    <string name="bottom_nav_home">Home</string>
+    <string name="bottom_nav_track">Track</string>
+    <string name="bottom_nav_report">Report</string>
+    <string name="bottom_nav_account">Account</string>
+
+    <string name="time">time</string>
+    <string name="kcal">kcal</string>
+    <string name="km">km</string>
+    <string name="steps">steps</string>
+
+    <string name="short_monday">Mon</string>
+    <string name="short_tuesday">Tue</string>
+    <string name="short_wednesday">Wed</string>
+    <string name="short_thursday">Thu</string>
+    <string name="short_friday">Fri</string>
+    <string name="short_saturday">Sat</string>
+    <string name="short_sunday">Sun</string>
+    <string name="today">Today</string>
+
+    <string name="full_january">January %1$s</string>
+    <string name="full_february">February %1$s</string>
+    <string name="full_march">March %1$s</string>
+    <string name="full_april">April %1$s</string>
+    <string name="full_may">May %1$s</string>
+    <string name="full_june">June %1$s</string>
+    <string name="full_july">July %1$s</string>
+    <string name="full_august">August %1$s</string>
+    <string name="full_september">September %1$s</string>
+    <string name="full_october">October %1$s</string>
+    <string name="full_november">November %1$s</string>
+    <string name="full_december">December %1$s</string>
+
+    <string name="duration_format">%1$sh %2$sm</string>
+
+    <!--Display Languages-->
+    <string name="dialog_language_title">Choose language</string>
+    <string name="en_language">English</string>
+    <string name="uk_language">Українська</string>
+
+    <!--Error msg    -->
+    <string name="home_step_counter_not_available">Step counter not available</string>
+    <string name="home_step_counter_permission_required">Step counter permission required</string>
+
+    <!--PermissionRequestDialog-->
+    <string name="permission_dialog_title">Permission Request</string>
+    <string name="permission_dialog_grant_btn">Grant Permission</string>
+    <string name="permission_dialog_cancel_btn">Cancel</string>
+
+    <string name="permission_physical_dialog_title">Physical Activity</string>
+    <string name="permission_physical_dialog_msg">TrackFit needs permission to access your physical activity data to accurately count your steps and monitor your progress.</string>
+    <string name="permission_location_dialog_title">Location Access</string>
+    <string name="permission_location_dialog_msg">To track your routes and provide you with detailed route mapping, TrackFit requires access to your location.</string>
+
+</resources>

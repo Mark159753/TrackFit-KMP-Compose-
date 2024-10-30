@@ -1,0 +1,13 @@
+<resources>
+    <string name="report_title">Звіт</string>
+
+    <string name="report_statistic_title">Статистика</string>
+    <string name="report_statistic_this_week">Цього тижня</string>
+    <string name="report_statistic_this_year">Цього року</string>
+    <string name="report_statistic_steps">Кроки</string>
+    <string name="report_statistic_time">Час</string>
+    <string name="report_statistic_calories">Калорії</string>
+    <string name="report_statistic_distance">Відстань</string>
+
+    <string name="report_statistic_your_progress">Ваш прогрес</string>
+</resources>

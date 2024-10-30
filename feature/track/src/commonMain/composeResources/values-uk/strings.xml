@@ -1,0 +1,6 @@
+<resources>
+    <string name="tracks_title">Маршрути</string>
+    <string name="tracks_start_btn">СТАРТ</string>
+    <string name="tracks_stop_btn">Стоп</string>
+    <string name="tracks_location_permission_required">Потрібен дозвіл на місцезнаходження</string>
+</resources>

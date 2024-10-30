@@ -1,0 +1,5 @@
+<resources>
+    <string name="home_title">Home</string>
+    <string name="home_steps">Steps</string>
+    <string name="home_your_progress_title">Your Progress</string>
+</resources>

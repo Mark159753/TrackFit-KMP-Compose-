@@ -1,0 +1,18 @@
+<resources>
+    <string name="let_get_started">Let's Get Started</string>
+    <string name="let_dive_into_account">Let's dive into your account</string>
+    <string name="login_with_google_btn">Continue with Google</string>
+    <string name="sign_up_btn">Sign up</string>
+    <string name="sign_in_btn">Sign in</string>
+
+    <!--SignUp-->
+    <string name="sign_up_title">Join TrackFit Today</string>
+    <string name="sign_up_subtitle">Create your account and start tracking your steps.</string>
+    <string name="sign_up_email">Email</string>
+    <string name="sign_up_password">Password</string>
+    <string name="sign_up_or">or</string>
+
+    <!--SignIn-->
+    <string name="sign_in_title">Welcome Back!</string>
+    <string name="sign_in_subtitle">Sign in to continue your fitness journey.</string>
+</resources>

@@ -1,0 +1,66 @@
+<resources>
+    <string name="valid_field_empty_error">Поле порожнє</string>
+    <string name="valid_field_wrong_email_error">Електронна адреса неправильна</string>
+    <string name="valid_field_short_password_error">Пароль повинен містити не менше 6 символів</string>
+    <string name="valid_field_long_password_error">Пароль не може бути довшим за 12 символів</string>
+
+    <string name="unknown_error">Невідома помилка</string>
+    <string name="auth_invalid_password_error">Неправильний пароль</string>
+    <string name="auth_invalid_email_error">Неправильна пошта</string>
+    <string name="auth_weak_password_error">Ненадійний пароль</string>
+    <string name="auth_exist_user_error">Користувач із цією електронною адресою вже існує, спробуйте увійти</string>
+
+    <!--Bottom Navigation Titles-->
+    <string name="bottom_nav_home">Головна</string>
+    <string name="bottom_nav_track">Маршрути</string>
+    <string name="bottom_nav_report">Звіт</string>
+    <string name="bottom_nav_account">Профіль</string>
+
+    <string name="time">Час</string>
+    <string name="kcal">kcal</string>
+    <string name="km">км</string>
+    <string name="steps">кроків</string>
+
+    <string name="short_monday">Пн</string>
+    <string name="short_tuesday">Вт</string>
+    <string name="short_wednesday">Ср</string>
+    <string name="short_thursday">Чт</string>
+    <string name="short_friday">Пт</string>
+    <string name="short_saturday">Сб</string>
+    <string name="short_sunday">Нд</string>
+    <string name="today">Сьогодні</string>
+
+    <string name="full_january">Січень %1$s</string>
+    <string name="full_february">Лютий %1$s</string>
+    <string name="full_march">Березень %1$s</string>
+    <string name="full_april">Квітень %1$s</string>
+    <string name="full_may">Травень %1$s</string>
+    <string name="full_june">Червень %1$s</string>
+    <string name="full_july">Липень %1$s</string>
+    <string name="full_august">Серпень %1$s</string>
+    <string name="full_september">Вересень %1$s</string>
+    <string name="full_october">Жовтень %1$s</string>
+    <string name="full_november">Листопад %1$s</string>
+    <string name="full_december">Грудень %1$s</string>
+
+    <string name="duration_format">%1$sг : %2$sхв</string>
+
+    <!--Display Languages-->
+    <string name="dialog_language_title">Вибери мову</string>
+    <string name="en_language">English</string>
+    <string name="uk_language">Українська</string>
+
+    <!--Error msg    -->
+    <string name="home_step_counter_not_available">Лічильник кроків недоступний</string>
+    <string name="home_step_counter_permission_required">Потрібен дозвіл на лічильник кроків</string>
+
+    <!--PermissionRequestDialog-->
+    <string name="permission_dialog_title">Запит дозволу</string>
+    <string name="permission_dialog_grant_btn">Надати дозвіл</string>
+    <string name="permission_dialog_cancel_btn">Скасувати</string>
+
+    <string name="permission_physical_dialog_title">Фізична активність</string>
+    <string name="permission_physical_dialog_msg">TrackFit потребує дозволу на доступ до даних про вашу фізичну активність, щоб точно рахувати кроки та відстежувати ваш прогрес.</string>
+    <string name="permission_location_dialog_title">Доступ до локації</string>
+    <string name="permission_location_dialog_msg">Для відстеження ваших маршрутів та надання детальної карти маршруту, TrackFit потребує доступу до вашого місцезнаходження.</string>
+</resources>
